@@ -1,10 +1,11 @@
-#Billboard Hot 100 to Spotify Playlist
-###Overview
+Billboard Hot 100 to Spotify Playlist
+Overview
 
 This Python script allows you to create a Spotify playlist based on the Billboard Hot 100 chart for a specific date. It fetches the top songs from Billboard for the given date and searches for them on Spotify, adding them to a new private playlist.
+
 Prerequisites
 
-###Before you can use this script, you'll need the following:
+Before you can use this script, you'll need the following:
 
     Python 3: Make sure you have Python 3 installed on your system.
 
@@ -22,7 +23,7 @@ Prerequisites
 
     Redirect URI: Set a redirect URI for your Spotify application in the Spotify Developer Dashboard. This URI should match the REDIRECT_URI specified in the script.
 
-###Usage
+Usage
 
     Clone the repository or download the script to your local machine.
 
@@ -45,7 +46,7 @@ Prerequisites
 
     Sit back and enjoy your personalized Billboard Hot 100 playlist on Spotify!
 
-###Important Notes
+Important Notes
 
     Please be aware that the script relies on the structure of the Billboard website to scrape data. Any changes to the website's structure may break the scraping functionality.
 
